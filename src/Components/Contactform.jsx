@@ -25,7 +25,7 @@ const Contactform = () => {
                   <Form.Control type="email" placeholder="Enter Your Email id" />
                 </Form.Group>
 
-                <Button variant="warning mt-2" type="submit" block>
+                <Button variant="warning mt-2" type="submit">
                   Submit
                 </Button>
               </Form>
