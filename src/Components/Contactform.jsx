@@ -41,7 +41,7 @@ const Contactform = () => {
                     <Card.Img variant="top" src="/project.jpg" height={200} />
                     <Card.Body className="d-flex flex-column justify-content-center align-items-center">
                       <Card.Title>PROJECTS</Card.Title>
-                      <Button variant="warning">View</Button>
+                      <Button variant="warning">View Projects</Button>
                     </Card.Body>
                   </Card>
                 </Col>
@@ -51,7 +51,7 @@ const Contactform = () => {
                     <Card.Img variant="top" src="/resume.jpg" height={200} />
                     <Card.Body className="d-flex flex-column justify-content-center align-items-center">
                       <Card.Title>RESUME</Card.Title>
-                      <Button variant="warning">View</Button>
+                      <Button variant="warning">View Resume</Button>
                     </Card.Body>
                   </Card>
                 </Col>
@@ -61,7 +61,7 @@ const Contactform = () => {
                     <Card.Img variant="top" src="/portfolio.jpg" height={200} />
                     <Card.Body className="d-flex flex-column justify-content-center align-items-center">
                       <Card.Title>PORTFOLIO</Card.Title>
-                      <Button variant="warning">View</Button>
+                      <Button variant="warning">See Portfolio</Button>
                     </Card.Body>
                   </Card>
                 </Col>
