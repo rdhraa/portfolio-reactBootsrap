@@ -5,7 +5,7 @@ const Navigation = () => {
   return (
     <Navbar className="p-3 justify-content-between bg-dark"  expand="lg">
       <Navbar.Brand href="#home" className="text-warning">
-        <Image src="logocopy.png" alt="Logo" width="65" height="60" /> Sophia Grace
+        <Image src="logocopy.png" alt="Logo" width="65" height="60" /> SG
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="navbar-nav" className="text-warning bg-warning" />
       <Navbar.Collapse id="navbar-nav">
