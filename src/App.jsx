@@ -2,7 +2,7 @@ import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Navigation from './Components/Navigation'
-import Body from './Components/body'
+import Body from './Components/Body'
 import Contactform from './Components/Contactform';
 import More from './Components/More'
 const App = () => {
